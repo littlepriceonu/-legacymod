@@ -13,7 +13,7 @@ G.props['new day lines']=[
 		'Harry Is Short.',
 		'Mason Is A Nerd.',
 		'Potato.',
-		'I mean, Who Doesn't Like Chesse?',
+		'I mean, Who Doesnt Like Chesse?',
 		'Crossaint.',
 		'E.',
 		'Dont eat the forbidden Chesse.'
